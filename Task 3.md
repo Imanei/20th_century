@@ -8,7 +8,7 @@
 
 **1. Creating a new virtual “20th_century”**
    
-   `conda create --name 20th_century`
+   ```conda create --name 20th_century```
    
 **2. Activating the virtual environment**
 `conda activate 20th_century`

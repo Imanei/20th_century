@@ -8,7 +8,8 @@
 5.2 Jupyter Notebook
 6. Creating new columns
 
-1. Creating a new virtual “20th_century”
+**1. Creating a new virtual “20th_century”**
+   
    `conda create --name 20th_century`
 # Activating the virtual environment
 # Installing the ipykernel library inside the virtual environment

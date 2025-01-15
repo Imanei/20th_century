@@ -1,0 +1,4 @@
+name: langchain
+channels:
+  - defaults
+prefix: C:\Users\hp\anaconda3\envs\langchain

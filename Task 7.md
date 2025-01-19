@@ -52,23 +52,14 @@ Countries with lower closeness centrality (e.g., Iraq, Ukraine, and Spain) are m
 The edges connecting different clusters highlight major geopolitical events where countries from different spheres interacted. For example, the connections between the United States (red cluster) and countries in the blue cluster reflect alliances and conflicts during the Cold War.
 Connections between the Middle East (purple cluster) and Western powers signify their role in oil politics, wars, and global diplomacy.
 
-The clustering aligns with historical blocs such as:
-Western Bloc (USA and Allies)
-Eastern Bloc (USSR and Eastern Europe)
-Decolonizing Nations (Asia, Middle East, and Africa)
-
-Sparse Connections in Peripheral Nodes:
+- The clustering aligns with historical blocs such as:
+* Western Bloc (USA and Allies)
+* Eastern Bloc (USSR and Eastern Europe)
+* Decolonizing Nations (Asia, Middle East, and Africa)
 
 Countries like Libya, Norway, and Singapore are peripheral, reflecting their smaller roles in global conflicts but significant regional importance.
 
-Colonial and Decolonization Themes:
-
 Many connections can be tied back to colonial histories and the eventual push for independence, which shaped alliances and conflicts throughout the 20th century.
-
-Germany leads in direct connections, reflecting its significant involvement in bilateral relations during the 20th century, particularly within Europe and beyond.
-The United States and Japan also score highly, showcasing their extensive ties across continents due to their economic, military, and political influence.
-Countries such as India and the Soviet Union exhibit notable degree centrality, underlining their roles as regional and global powers during key historical periods.
-Lower-ranked countries, like Singapore and Cambodia, have fewer direct connections, indicating a more localized or limited role in the global network.
 
 **The partition aligns well with historical narratives, but it also reveals new patterns of interaction.** For instance:
 

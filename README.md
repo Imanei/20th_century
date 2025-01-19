@@ -21,8 +21,8 @@ This repository provides a comprehensive analysis of the interrelations between 
 
 2. **DATA SOURCE**
    -Data was scraped from the Wikipedia page, [Key events of the 20th century](https://en.wikipedia.org/wiki/Key_events_of_the_20th_century).
-   Using BeautifulSoup the full text of the article was saved as a text file, 20th Century Events.txt.
-   And using Selenium, all names of countries in the article were compiled into a csv file countries_list_20th_century_1.5.csv.
+   Using `BeautifulSoup` the full text of the article was saved as a text file, `20th Century Events.txt`.
+   And using `Selenium`, all names of countries in the article were compiled into a csv file `countries_list_20th_century_1.5.csv`.
 
 3. **Graph Analysis**
    - Using `NetworkX`, the network was analyzed for:

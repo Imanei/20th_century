@@ -1,0 +1,68 @@
+,source,target,value
+0,Germany,Russia,9
+1,Austria,Germany,10
+2,Austria,Russia,5
+3,Austria,Hungary,6
+4,Germany,Hungary,9
+5,Germany,Yugoslavia,4
+6,Czechoslovakia,Yugoslavia,12
+7,Germany,Italy,14
+8,Spain,the United Kingdom,2
+9,France,the United Kingdom,6
+10,France,Poland,5
+11,Poland,the United Kingdom,11
+12,Germany,Poland,15
+13,Germany,the Soviet Union,7
+14,Belgium,Germany,2
+15,Belgium,Denmark,5
+16,Denmark,Norway,17
+17,Denmark,Sweden,5
+18,Germany,Sweden,6
+19,France,Germany,15
+20,France,Greece,4
+21,Greece,Yugoslavia,12
+22,Albania,Greece,6
+23,Albania,Yugoslavia,6
+24,Libya,Ukraine,2
+25,Egypt,Libya,15
+26,Egypt,Iraq,5
+27,Germany,Japan,17
+28,Japan,the United States,48
+29,Russia,the United States,6
+30,Italy,Russia,5
+31,Germany,the United Kingdom,4
+32,Morocco,the United Kingdom,5
+33,Algeria,Morocco,6
+34,Algeria,Italy,4
+35,Germany,the United States,6
+36,China,Japan,27
+37,Italy,Japan,5
+38,Japan,Philippines,10
+39,Australia,Japan,10
+40,Guinea,Japan,10
+41,India,Japan,5
+42,China,the United States,14
+45,Iran,Libya,6
+46,Iran,the United States,4
+47,India,Vietnam,4
+48,Kenya,Vietnam,5
+49,Ghana,Kenya,6
+50,France,Ghana,4
+51,Hungary,the United States,1
+52,Cuba,Germany,4
+53,Cuba,Vietnam,9
+54,Vietnam,the Soviet Union,5
+55,China,the Soviet Union,9
+56,Vietnam,the United States,20
+57,Cambodia,the United States,9
+58,Cuba,the United States,5
+59,the Soviet Union,the United States,6
+60,Canada,the United States,1
+61,Canada,the Soviet Union,3
+62,China,India,12
+63,Finland,Russia,6
+64,Finland,Germany,6
+65,Denmark,Germany,6
+66,Greece,the United Kingdom,1
+67,India,Pakistan,6
+68,India,Singapore,5

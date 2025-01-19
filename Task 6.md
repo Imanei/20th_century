@@ -9,7 +9,7 @@ In the first part, I focused on cleaning the text data to ensure consistency and
    
 The cleaned data was then saved and added to the project folder
 ### Explore the ipynb Notebook part 1:
-You can explore the full code in the [Notebook Part 1](./Scripts/NLP%20and%20Network%20Analysis%20Part%201.ipynb)
+You can explore the full code in the [Notebook Part 1](./Scripts/1.6%20NLP%20and%20Network%20Analysis%20Part%201.ipynb)
 
 ## 2. NER Processing and Data Export
 In the second part of the task, I used the cleaned text data to create a Named Entity Recognition (NER) model and followed these steps:
@@ -21,5 +21,5 @@ In the second part of the task, I used the cleaned text data to create a Named E
    
 This part of the task focused on extracting useful insights and exporting the results in a manageable format.
 ### Explore the ipynb Notebook part 2:
-You can explore the full code in the [Notebook Part 2](./Scripts/NLP%20and%20Network%20Analysis%20Part%202.ipynb)
+You can explore the full code in the [Notebook Part 2](./Scripts/1.6%20NLP%20and%20Network%20Analysis%20Part%202.ipynb)
 
